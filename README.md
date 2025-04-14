@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Alexandre Hamez
 
-<!--
-**ahamez/ahamez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ph.D. in Computer Science (model checking) | ⚙️ Engineering Manager
 
-Here are some ideas to get you started:
+🇫🇷 Based in France | 🌍 Working in English (B2) & French
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 🛠 Building a **Large Language Model from scratch** in **Elixir**  
+    ↳ Following [*Build a Large Language Model (From Scratch)*](https://www.oreilly.com/library/view/build-a-large/9781098152881/)  
+- 📚 Build a database for **folk tales analysis**
+
+## 💻 Languages & Tools
+
+- 💜 Elixir (favorite)
+- 🦀 Rust (learning)
+- 🐍 Python (scripting)
+- 💡 C++17 (previously expert)
+- 🛠 Terraform, CI/CD
+
+## 🧰 My Elixir Libraries
+
+- 📦 [**protox**](https://github.com/ahamez/protox) – A reasonably fast Protocol Buffers implementation
+- 🔢 [**varint**](https://github.com/ahamez/varint) – Minimal and efficient varint encoder/decoder
+- 🕵️ [**secret_agent**](https://github.com/ahamez/secret_agent) – Simple credential storage with OTP principles
+
+## 🧠 Interests
+
+- Functional Programming
+- Interpreters
+- Cybersecurity
+- Decision Diagrams
+- Layered architecture
