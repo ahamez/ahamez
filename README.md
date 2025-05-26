@@ -4,10 +4,10 @@
 - Based in France
 - Working in English (B2) & French
 
-## 💻 Languages & Tools
+## Languages & Tools
 
 - Elixir (favorite)
-- Rust (learning)
+- Rust (interest)
 - Python (scripting)
 - C++17 (previously expert)
 - Terraform, CI/CD
