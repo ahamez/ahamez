@@ -5,12 +5,7 @@
 - Based in France
 - Working in English (B2) & French
 
-## Some Languages & Tools
-
-- C++17; Elixir; Python; Rust
-- Docker; GitHub Actions; Terraform
-
-## Some Projects
+## Some Elixir Projects
 
 - [**protox**](https://github.com/ahamez/protox) – A reasonably fast Protocol Buffers implementation
 - [**varint**](https://github.com/ahamez/varint) – Minimal and efficient varint encoder/decoder
